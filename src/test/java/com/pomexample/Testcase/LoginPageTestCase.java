@@ -42,11 +42,7 @@ public class LoginPageTestCase extends BaseClass {
 		
 	}
 	
-	@AfterSuite
-	public void close()
-	{
-		driver.quit();
-	}
+
 	
 	
 }
